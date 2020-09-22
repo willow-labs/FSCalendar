@@ -16,7 +16,6 @@
      targets: [
          .target(
              name: "FSCalendar",
-             path: "FSCalendar",
-             publicHeadersPath: "FSCalendar")
+             path: "FSCalendar"
      ]
  )
